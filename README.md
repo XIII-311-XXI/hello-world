@@ -1,2 +1,3 @@
 # hello-world
-Hello World GetHub Guide
+Guided by: GetHub
+Conscious Intelligence inspires me.
